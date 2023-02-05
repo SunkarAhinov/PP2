@@ -1,0 +1,12 @@
+a=input()             #делаем срезы
+s=len(a)
+print(a[2])
+print(a[s-2])
+print(a[:5])
+print(a[:s-2])
+print(a[::2])
+print(a[1::2])
+print(a[1::2])
+print(a[::-1])
+print(a[::-2])
+print(len(a))
